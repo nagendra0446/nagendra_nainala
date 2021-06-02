@@ -6,14 +6,14 @@ body
 
 
 .header_div{
-    background-color: #cfd3ce;
+    background-color: #e4efe7;
     border-radius: 5px;
 }
 
 .header_text
 {
     text-align: center;
-    font-size: 18px;
+    font-size: 25px;
     padding: 10px;
 }
 
@@ -38,15 +38,19 @@ li, ul{
     position: absolute;
     bottom: 8px;
     display: block;
-    background-color: #cfd3ce;
+    background-color: #e4efe7;
     border-radius: 5px;
 }
 .footer_table
 {
     
-    background-color: #cfd3ce;
+    background-color: #e4efe7;
     border-radius: 5px;
     
+}
+.footer_table td{
+    font-size: 13px;
+    font-weight: 500;
 }
 .footer_contents
 {
