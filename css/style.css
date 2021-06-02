@@ -4,6 +4,7 @@ body
     /* background-color: #e8ead3; */
 }
 
+
 .header_div{
     background-color: #cfd3ce;
     border-radius: 5px;
@@ -27,38 +28,29 @@ body
     font-size: 18px;
     margin: 10px;
 }
-
-
-
-.name
-{
-    font-weight: 400;
-    font-size: 30px;
+li, ul{
+    font-size: 18px;
 }
 
-
-
-
-.title
+.footer_div
 {
-    margin: 15px;
-    font-size: 35px;
-}
-
-.data
-{
-    margin: 15px;
-    font-weight: 500;
-}
-.data2
-{
-    padding: 10px;
-}
-.footer_main
-{
+    width: 99%;
+    position: absolute;
+    bottom: 8px;
+    display: block;
     background-color: #cfd3ce;
     border-radius: 5px;
-    margin: 10px;
+}
+.footer_table
+{
+    
+    background-color: #cfd3ce;
+    border-radius: 5px;
+    
+}
+.footer_contents
+{
+    padding: 10px;
 }
 
 .footer
