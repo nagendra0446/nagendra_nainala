@@ -39,7 +39,7 @@ li, ul{
 {
     margin-top: 50px;
     width: 99%;
-    position: absolute;
+    position:relative;
     bottom: 8px;
     display: block;
     background-color: #f3f4ed;
