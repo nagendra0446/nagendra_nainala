@@ -1,46 +1,43 @@
 body
 {
     font-family: inter;
-    background-color: #e8ead3;
+    /* background-color: #e8ead3; */
 }
 
-
-.header_main
-{
+.header_div{
     background-color: #cfd3ce;
     border-radius: 5px;
-    margin: 10px;
 }
 
-.header
-{
-    
-}
-
-.header_image
-{
-    border-radius: 50%;
-    padding: 10px;
-}
-
-.name
-{
-    font-size: 45px;
-    font-weight: 400;
-}
 .header_text
 {
     text-align: center;
     font-size: 20px;
     padding: 10px;
-    font-weight: 600;
+}
+
+.header_image
+{
+    border-radius: 50%;
+    padding: 3px;
 }
 
 .intro
 {
-    font-size: 25px;
-    margin: 15px;
+    font-size: 18px;
+    margin: 10px;
 }
+
+
+
+.name
+{
+    font-weight: 400;
+    font-size: 30px;
+}
+
+
+
 
 .title
 {
@@ -51,7 +48,6 @@ body
 .data
 {
     margin: 15px;
-    font-size: 25px;
     font-weight: 500;
 }
 .data2
