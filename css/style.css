@@ -1,0 +1,80 @@
+body
+{
+    font-family: inter;
+    background-color: #e8ead3;
+}
+
+
+.header_main
+{
+    background-color: #cfd3ce;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.header
+{
+    
+}
+
+.header_image
+{
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.name
+{
+    font-size: 45px;
+    font-weight: 400;
+}
+.header_text
+{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.intro
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.title
+{
+    margin: 15px;
+    font-size: 35px;
+}
+
+.data
+{
+    margin: 15px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.data2
+{
+    padding: 10px;
+}
+.footer_main
+{
+    background-color: #cfd3ce;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.footer
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.footer_link
+{
+    padding: 0px;
+    text-decoration: none;
+    color: black;
+}
